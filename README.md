@@ -6,7 +6,7 @@
   ![image](https://github.com/user-attachments/assets/37ae39f6-6e8f-4071-833b-7ca594f049b6)
 
 - Создаем деплой для 2 контейнеров - busybox и multitool и директорию, где будут храниться данные
-  ![image](https://github.com/user-attachments/assets/f9b0ce3e-5aba-4878-a5d3-856a892f566d)
+  ![image](https://github.com/user-attachments/assets/233ebcce-0ece-4231-8284-634c0a243b98)
   ![image](https://github.com/user-attachments/assets/4cc2ef7f-c87f-43fd-b140-4fc8f4d32d26)
 
 - Создаем манифест для PV и PVC
